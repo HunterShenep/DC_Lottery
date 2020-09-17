@@ -1,0 +1,11 @@
+name: DCLOTTERY
+version: 1.0
+main: com.huntershenep.DCLOTTERY.Main
+description: DC Lottery
+depend: [DCCORE]
+author: Hunter Shenep - DiamCraft
+
+commands:
+    lottery:
+        usage: /<command>
+        description: none
